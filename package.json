@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "nodemon views/index.js"
+     "start": "node views/index.js",
+            "dev": "nodemon views/index.js"
   },
   "engines": {
     "node":"18.12.1"
